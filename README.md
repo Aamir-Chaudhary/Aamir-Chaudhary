@@ -31,20 +31,24 @@
 
 ## 💻 Projects
 
-### 🚀 [Employee Management System](https://github.com/Aamir-Chaudhary/Employee-Management-System/blob/main/Employee%20Management%20System.zip)
+### 🚀 [Employee Management System (Desktop)](https://github.com/Aamir-Chaudhary/Employee-Management-System)
 A full-featured desktop application developed using **Java Swing/AWT** and **MySQL**. Modules include employee add/search/delete, admin panel, and check-in/out with QR code.
 
-### 📧 Email Sending Desktop App
-A GUI-based email client built with **Java Swing/AWT** in **NetBeans IDE**. Allows users to send emails with attachments via a secure SMTP connection.
+### 🌐 [Employee Management System – Web Version](https://github.com/Aamir-Chaudhary/Employee-Management-Web)
+A Java Servlet-based web version of the Employee Management System with full CRUD operations, attendance tracking, and salary calculator.  
+> ✅ Shares the **same MySQL database** as the desktop version for seamless integration.
 
-### 🐍 Snake Game
-A fun desktop-based Snake Game built using **Java Swing**, showcasing basic game development logic with score tracking.
+### 📧 [Email Sender Desktop App](https://github.com/Aamir-Chaudhary/Email-Sender-App)
+A GUI-based email client built with **Java Swing**. Allows users to compose and send emails with file attachments via SMTP.
 
-### 🛒 Amazon Clone Web Page
-A responsive front-end simulation of Amazon built with **HTML**, **CSS**, **JavaScript**, and **Bootstrap 5**. Includes a dynamic homepage, product cards, and simulated interactions.
+### 🐍 [Snake Game](https://github.com/Aamir-Chaudhary/Snake-Game)
+A fun and simple desktop-based Snake Game developed using Java Swing, featuring keyboard controls and score tracking.
 
-### 🏠 PG Life Website 
-Web layout for PG listings with amenity filtering and responsive design. Built with **HTML/CSS** and icon-based sections.
+### 🛒 [Amazon Clone Web Page](https://github.com/Aamir-Chaudhary/Amazon-Clone)
+A responsive front-end simulation of Amazon built with **HTML**, **CSS**, **JavaScript**, and **Bootstrap 5**. Includes header, product grid, search bar, and mock login.
+
+### 🏠 [PG Life Website](https://github.com/Aamir-Chaudhary/PG-Life)
+A static webpage layout for PG listings with grouped amenities (Building, Common Area, Bedroom, Washroom) using icons. Built with pure HTML and CSS.
 
 ---
 
