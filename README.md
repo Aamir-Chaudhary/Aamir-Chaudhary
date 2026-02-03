@@ -32,7 +32,7 @@
 ## 💻 Projects
 
 ### 🚀 [Food ordering (Amir's Eatry)](https://aamir-chaudhary.github.io/Aamir-s-eatery-Food/)
-a modern and responsive food ordering website built using HTML, CSS, and Bootstrap 5. This platform allows users to explore the menu, learn about the restaurant, and easily place food orders online.
+a modern and responsive food ordering website built using HTML, CSS, and Bootstrap5 JavaScript, FireBase. This platform allows users to explore the menu, learn about the restaurant, and easily place food orders online.
 
 ### 🚀 [Employee Management System (Desktop)](https://github.com/Aamir-Chaudhary/Employee-Management-System)
 A full-featured desktop application developed using **Java Swing/AWT** and **MySQL**. Modules include employee add/search/delete, admin panel, and check-in/out with QR code.
