@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Aamir Chaudhary</h1>
 
 <p align="center">
-🎓 Final-year B.Tech student in Information Technology at DIT University, Dehradun. <br>
+🎓 B.Tech in Information Technology at DIT University, Dehradun. <br>
 💡 Passionate about full-stack web development, database systems, and building real-world applications using modern technologies.
 </p>
 
