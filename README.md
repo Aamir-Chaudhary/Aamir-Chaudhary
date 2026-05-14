@@ -1,75 +1,78 @@
-<h1 align="center">👋 Hi, I'm Aamir Chaudhary</h1>
+[cite_start]<h1 align="center">👋 Hi, I'm Aamir Chaudhary</h1> [cite: 2]
 
 <p align="center">
-🎓 B.Tech in Information Technology at DIT University, Dehradun. <br>
-💡 Passionate about full-stack web development, database systems, and building real-world applications using modern technologies.
+🎓 **B.Tech in Information Technology | Full Stack Web Developer | [cite_start]SaaS Founder** [cite: 3, 8, 39] <br>
+[cite_start]💡 Specializing in business-focused software solutions, fraud prevention systems, and database management. [cite: 7, 8]
 </p>
 
 ---
 
 ## 🧠 Tech Stack & Expertise
 
-- 🚀 **Frontend:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+- 🚀 **Frontend:** ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+  [cite_start]![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) [cite: 11]
 
-- 💻 **Backend:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+- 💻 **Backend & Database:** ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+  [cite_start]![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) [cite: 12]
 
-- 🛢 **Database:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-- 🛠 **Tools & IDEs:** ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white)
+- 🛠 **Tools & Concepts:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+  ![OneSignal](https://img.shields.io/badge/OneSignal-E9442F?style=flat&logo=onesignal&logoColor=white)
   ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
-- 🧠 **Concepts:** AI in Web Development, DBMS, Software & Hardware Networking, Problem Solving, Clear Communication
-
----
-
-## 💻 Projects
-
-### 🚀 [Food ordering (Amir's Eatry)](https://aamir-chaudhary.github.io/Aamir-s-eatery-Food/)
-a modern and responsive food ordering website built using HTML, CSS, and Bootstrap5 JavaScript, FireBase. This platform allows users to explore the menu, learn about the restaurant, and easily place food orders online.
-
-### 🚀 [Employee Management System (Desktop)](https://github.com/Aamir-Chaudhary/Employee-Management-System)
-A full-featured desktop application developed using **Java Swing/AWT** and **MySQL**. Modules include employee add/search/delete, admin panel, and check-in/out with QR code.
-
-### 🌐 [Employee Management System – Web Version](https://github.com/Aamir-Chaudhary/Employee-Management-Web)
-A Java Servlet-based web version of the Employee Management System with full CRUD operations, attendance tracking, and salary calculator.  
-> ✅ Shares the **same MySQL database** as the desktop version for seamless integration.
-
-### 📧 [Email Sender Desktop App](https://github.com/Aamir-Chaudhary/Email-Sender-App)
-A GUI-based email client built with **Java Swing**. Allows users to compose and send emails with file attachments via SMTP.
-
-### 🐍 [Snake Game](https://github.com/Aamir-Chaudhary/Snake-Game)
-A fun and simple desktop-based Snake Game developed using Java Swing, featuring keyboard controls and score tracking.
-
-### 🛒 [Amazon Clone Web Page](https://github.com/Aamir-Chaudhary/Amazon-Clone)
-A responsive front-end simulation of Amazon built with **HTML**, **CSS**, **JavaScript**, and **Bootstrap 5**. Includes header, product grid, search bar, and mock login.
-
-### 🏠 [PG Life Website](https://github.com/Aamir-Chaudhary/PG-Life)
-A static webpage layout for PG listings with grouped amenities (Building, Common Area, Bedroom, Washroom) using icons. Built with pure HTML and CSS.
+  [cite_start]**Concepts:** CRUD, REST APIs, Auth Logic, Async JS. [cite: 13, 14, 20]
 
 ---
 
-## 🏅 Certifications & Trainings
+## 💻 Professional Projects & SaaS
 
-- 💼 **Java Developer Trainee** at Skartia Pvt. Ltd.
-- 🖥 **Diplomatic Course** in Software & Hardware Networking
-- 🛠 Workshops on Core Java, Swing, DBMS, and Frontend
+### 🏗️ [ThokBazaar](https://thokbazaar.netlify.app/)
+[cite_start]**Lead Project Developer** [cite: 16]
+* [cite_start]Spearheading the development of a business-focused marketplace application. [cite: 18]
+* Managing complex project workflows including Git version control and merge conflict resolution. [cite: 19]
+* [cite_start]Integrated **OneSignal** for real-time user notifications and engagement. [cite: 20]
+
+### 🛡️ [Thok Track (SaaS)](https://thoktrack.vercel.app/)
+[cite_start]**Founder & Developer** [cite: 22]
+* Developing a SaaS solution specifically designed to address "Field Force Fraud" through data-driven tracking. [cite: 25]
+* [cite_start]Utilizing **Supabase** for backend management, including secure file storage (buckets) for visit-proof evidence. [cite: 26]
+* [cite_start]Troubleshooting complex data synchronization between storage buckets and SQL tables. [cite: 27]
+
+### 🏥 [Umesh Medical Hall](https://umeshmedicalhall.com.np/)
+[cite_start]**Freelance Web Developer** [cite: 28]
+* [cite_start]Delivered and deployed a fully responsive healthcare website. [cite: 29]
+* Integrated **Google Spreadsheet API** for dynamic data handling to provide manageable backend functionality. [cite: 30]
+
+---
+
+## 🚀 Other Notable Projects
+
+* [cite_start]**Food Ordering Website:** A responsive web application with an authentication system, cart functionality, and Firebase integration. [cite: 33]
+* [cite_start]**Employee Management System (Web):** A JSP-based application with full CRUD operations and MySQL integration. [cite: 34]
+* **Email Sender App:** A GUI-based Java desktop application for sending emails with attachments via SMTP.
+
+---
+
+## 🏅 Education & Training
+
+* **B. Tech in Information Technology:** DIT University (2021-2025) | [cite_start]CGPA: 8.07/10 [cite: 39]
+* **Diploma in Computer Science Engineering:** Sri Ramswaroop Memorial University (2021) | [cite_start]78.6% [cite: 40]
+* **Full Stack Web Development Training:** Internshala (Mar 2025 - Feb 2026) [cite: 36]
+* [cite_start]**Web Development Certification:** Teachnook (Cognizance'24 IIT Roorkee) [cite: 37]
 
 ---
 
 ## 📬 Get in Touch
 
-- 📧 Email: [1000016812@dit.edu.in](mailto:1000016812@dit.edu.in) / [Aamirchaudhary78600@gmail.com](mailto:Aamirchaudhary78600@gmail.com)  
-- 📱 Phone: +91-9125819327 / +977-9805441433  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/aamir-chaudhary-2542411b7)  
-- 💻 [GitHub](https://github.com/Aamir-Chaudhary)
+* [cite_start]📧 **Email:** [aamirchaudhary78600@gmail.com](mailto:aamirchaudhary78600@gmail.com) [cite: 5]
+* [cite_start]🌐 **LinkedIn:** [linkedin.com/in/aamir-chaudhary-2542411b7](https://linkedin.com/in/aamir-chaudhary-2542411b7) [cite: 4]
+* [cite_start]📱 **Phone:** +977-9805441433 [cite: 1]
+* 📍 **Location:** Nepal (Open to Relocation) [cite: 1]
 
 ---
 
-> 🚀 “I'm looking for opportunities to apply my technical knowledge in solving real-world problems, keep learning, and grow with innovative teams.”
+> 🚀 "I am driven to apply my technical expertise to solve real-world problems and scale innovative business solutions." [cite: 7, 8]
